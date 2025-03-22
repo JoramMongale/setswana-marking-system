@@ -1,0 +1,25 @@
+echo "# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+.venv/
+ENV/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# VS Code
+.vscode/
+
+# User data
+data/students/*
+data/results/*
+!data/students/.gitkeep
+!data/results/.gitkeep
+
+# API keys
+.env" > .gitignore
