@@ -1,3 +1,4 @@
+# app/core/marker.py
 """
 Core marking functionality for the Setswana Marking System.
 This handles the comparison between student answers and memo answers.
