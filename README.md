@@ -1,8 +1,7 @@
-<<<<<<< HEAD
+
 # setswana-marking-system
 An automated marking system for Setswana language papers using Python and Claude API.(MVP)
 
-=======
 echo "# Setswana Marking System
 
 An automated system for marking Setswana language papers using Python and the Claude API.
