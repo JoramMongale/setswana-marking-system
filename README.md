@@ -95,7 +95,7 @@ setswana_marking_system/
 
 ## License
 
-This is a project for my Lovely Beatiful Wif Glory.
+This is a project for my Lovely Beatiful Wife Glory.
 
 
 ## Contributing
